@@ -6,7 +6,7 @@ I am pleased to inform you that I have successfully completed my third task at C
  - [visit here-live site]( https://tamiltechdrive.github.io/portfolio_at_codsoft/)
 ## Screenshots
 
-![App Screenshot](https://github.com/TamilTechdrive/calculator_at_codsoft/blob/main/Screenshot%20(41).png)
+![App Screenshot](https://github.com/TamilTechdrive/portfolio_at_codsoft/blob/main/Screenshot%202023-10-24%20204623.jpg)
 
 
 ## Feedback
