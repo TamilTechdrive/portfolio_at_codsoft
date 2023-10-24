@@ -222,6 +222,9 @@ body{
 .about .content .col-left{
   position: relative;
   width: 45%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .about .content .col-right{
