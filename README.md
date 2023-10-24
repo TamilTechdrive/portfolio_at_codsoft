@@ -1,8 +1,6 @@
 # portfolio_at_codsoft
-# calculator_at_codsoft
 
-
-# calculator
+# portfolio
 I am pleased to inform you that I have successfully completed my third task at CodSoft. I would like to take this opportunity to provide a professional overview of the task and its outcomes.
 
  - [visit here-live site]( https://tamiltechdrive.github.io/portfolio_at_codsoft/)
